@@ -1,0 +1,123 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+  background: #62c9f8 url(http://bscheff22.files.wordpress.com/2013/10/school-of-athens.jpg);
+}
+a {
+  text-decoration: none;
+  color: #081d2e;
+}
+a:hover {
+  text-decoration: underline;
+}
+.header {
+  padding: 10px;
+  color: darkslategray;
+  width: 50%;
+  margin: 0 auto;
+  background: rgba(216, 232, 229, 0.7);
+  text-align: center;
+}
+
+#images {
+  background: rgba(230,230, 255, 0.9);
+  color:white;
+  text-align: center;
+}
+
+.image_item > img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.image_item {
+  margin: 20px;
+  padding: 10px;
+  color: #1b3346;
+  font-size: 1.5em;
+  list-style: none;
+  display: inline-block;
+  width: 550px;
+  height: 350px;
+}
+
+#header {
+  position: relative;
+}
+img {
+  margin: 0 auto;
+  max-width: 500px;
+  max-height: 350px;
+  position: relative;
+  -webkit-box-shadow: 8px 3px 22px #081d2e;
+  -moz-box-shadow: 8px 3px 22px #081d2e;
+  box-shadow: 8px 3px 22px #081d2e;
+}
+.container {
+  background: rgb(216, 232, 229);
+  background: rgba(216, 232, 229, 0.70);
+  padding: 15px;
+  max-height: 600px;
+  clear: both;
+  text-align: center;
+  margin: 0 auto;
+  -webkit-box-shadow: 8px 10px 22px #6c7781;
+  -moz-box-shadow: 8px 10px 22px #6c7781;
+  box-shadow: 8px 10px 22px #6c7781;
+}
+
+#status {
+  margin-top: 15px;
+}
+#answer-form > ul {
+  display: inline;
+}
+#answer-form > li {
+  display: inline;
+  list-style: none;
+}
+
+
+button {
+  border-style: none;
+  padding: 5px;
+  color:white;
+  background-color: #204251;
+}
+
+input[type = "text"] {
+   border-radius: 3px;
+   padding: 5px;
+   margin: 15px;
+   color: white;
+   background-color: #2b4351;
+   border-style: none;
+}
+
+#work-on-container {
+  text-align: left;
+  position: absolute;
+  background-color: rgba(15, 51, 73, 0.85);
+  clear: left;
+  padding: 10px;
+  color: #e4eef8;
+  margin: 0;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+  color: #f6f7ff;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color:    #f6f7ff;
+  opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:   #f6f7ff;
+  opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color:    #f6f7ff;
+}

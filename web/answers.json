@@ -1,0 +1,184 @@
+{
+  "art" : [
+    {
+      "artist": ["botticelli"],
+      "date": ["1484"],
+      "title": ["birth of venus"],
+      "image": "http://www.uffizi.org/img/artworks/botticelli-birth-venus.jpg"
+    },
+    {
+      "artist": ["leonardo da vinci"],
+      "date": ["1495"],
+      "title": ["last supper"],
+      "image": "http://images.alphacoders.com/180/180493.jpg"
+    },
+    {
+      "artist": ["michelangelo"],
+      "date": ["1501-05", "1501", "1505"],
+      "title": ["david"],
+      "image": "http://www.jigzone.com/p/jz/cil/Michelangelo's_David.jpg"
+    },
+    {
+      "artist": ["leonardo da vinci"],
+      "date": ["1503-05", "1503", "1505"],
+      "title": ["mona lisa"],
+      "image": "http://wallpaperus.org/wallpapers/02/8/mona-lisa-4481x6000-wallpaper-612693.jpg"
+    },
+    {
+      "artist": ["michelangelo"],
+      "date": ["1508-12", "1508", "1512"],
+      "title": ["creation of adam"],
+      "image": "http://prints.icanvasart.com/LargeArtImage/318.jpg"
+    },
+    {
+      "artist": ["titian"],
+      "date": ["1538"],
+      "title": ["venus of urbino"],
+      "image": "http://retroblogrome.com/wp-content/uploads/2013/02/Titian-Venus-of-Urbino.jpg"
+    },
+    {
+      "artist": ["raphael"],
+      "date": ["1509-11", "1509", "1511"],
+      "title": ["philosophy"],
+      "image": "https://classconnection.s3.amazonaws.com/527/flashcards/1070527/png/21327074529071.png"
+    },
+    {
+      "artist": ["carravaggio"],
+      "date": ["1602-03", "1602", "1603"],
+      "title": ["christ with the doubting thomas"],
+      "image": "http://www.christusrex.org/www2/art/images/carav10.jpg"
+    },
+    {
+      "artist": ["carravaggio"],
+      "date": ["1601"],
+      "title": ["conversion of saint paul"],
+      "image": "https://classconnection.s3.amazonaws.com/320/flashcards/916320/jpg/_clio_team__1601_le_caravage_conversion_de_saint_paul__huile_sur_toile__230x175_cm1334986896377.jpg"
+    },
+    {
+      "artist": ["vermeer"],
+      "date": ["1660"],
+      "title": ["a maid servant pouring milk"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg"
+    },
+    {
+      "artist": ["rembrandt"],
+      "date": ["1642"],
+      "title": ["the knight watch"],
+      "image": "https://classconnection.s3.amazonaws.com/845/flashcards/370845/jpg/rembrandt_night_watch.jpg"
+    },
+    {
+      "artist": ["bernini"],
+      "date": ["1645-52", "1645", "1652"],
+      "title": ["ecstasy of saint teresa"],
+      "image": "http://www.artchive.com/artchive/b/bernini/teresa.jpg"
+    },
+    {
+      "artist": ["valezquez"],
+      "date": ["1656"],
+      "title": ["the maids of honor"],
+      "image": "http://www.the-art-minute.com/wp-content/uploads/2011/07/800px-Diego_Vel%C3%A1zquez_-_Las_Meninas_detail_-_WGA24449.jpg"
+    },
+    {
+      "artist": ["poussin"],
+      "date": ["1660"],
+      "title": ["arcadian shepherds"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/f/fd/Nicolas_Poussin_052.jpg"
+    },
+    {
+      "artist": ["gourbet"],
+      "date": ["1849-50", "1849", "1850"],
+      "title": ["a burial at ornans"],
+      "image": "http://www-tc.pbs.org/wgbh/cultureshock/flashpoints/visualarts/images/courbet_big.jpg"
+    },
+    {
+      "artist": ["manet"],
+      "date": ["1863"],
+      "title": ["the picnic"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg"
+    },
+    {
+      "artist": ["manet"],
+      "date": ["1863"],
+      "title": ["olympia"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/c/cd/Olympia-manet.jpg"
+    },
+    {
+      "artist": ["monet"],
+      "date": ["1872"],
+      "title": ["impression sunrise"],
+      "image": "http://www.artinthepicture.com/artists/Claude_Monet/impression_sunrise.jpeg"
+    },
+    {
+      "artist": ["renoir"],
+      "date": ["1880-81", "1880", "1881"],
+      "title": ["luncheon of the boating party"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"
+    },
+    {
+      "artist": ["degas"],
+      "date": ["1873-74", "1873", "18"],
+      "title": ["the rehearsal"],
+      "image": "http://uploads4.wikiart.org/images/edgar-degas/the-rehearsal.jpg"
+    },
+    {
+      "artist": ["rodin"],
+      "date": ["1884-86", "1884", "1886"],
+      "title": ["the burghers of calais"],
+      "image": "http://upload.wikimedia.org/wikipedia/en/2/28/Burghers_of_Calais_Hirshhorn.jpg"
+    },
+    {
+      "artist": ["gauguin"],
+      "date": ["1888"],
+      "title": ["the vision after the sermon"],
+      "image": "http://uploads1.wikiart.org/images/paul-gauguin/the-vision-after-the-sermon-jacob-wrestling-with-the-angel-1888.jpg"
+    },
+    {
+      "artist": ["seurat"],
+      "date": ["1884-86", "1884", "1886"],
+      "title": ["sunday afternoon"],
+      "image": "http://garymvasey.files.wordpress.com/2014/06/seurat-a-sunday-afternoon-on-the-island-of-la-grande-jatte.jpg"
+    },
+    {
+      "artist": ["van gogh"],
+      "date": ["1889"],
+      "title": ["starry night"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/758px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    {
+      "artist": ["van gogh"],
+      "date": ["1888"],
+      "title": ["the night cafe"],
+      "image": "http://upload.wikimedia.org/wikipedia/commons/7/7c/Van_Gogh_The_Night_Cafe.jpg"
+    },
+    {
+      "artist": ["munch"],
+      "date": ["1893"],
+      "title": ["the scream"],
+      "image": "http://upload.wikimedia.org/wikipedia/en/archive/f/f4/20100830193250!The_Scream.jpg"
+    },
+    {
+      "artist": ["matisse"],
+      "date": ["1905-06", "1905", "1906"],
+      "title": ["the joy of life"],
+      "image": "http://www.henrimatisse.org/images/gallery/joy-of-life.jpg"
+    },
+    {
+      "artist": ["matisse"],
+      "date": ["1909-1910", "1909", "1910"],
+      "title": ["the dance"],
+      "image": "http://uploads6.wikiart.org/images/henri-matisse/dance-ii-1910.jpg"
+    },
+    {
+      "artist": ["picasso"],
+      "date": ["1907"],
+      "title": ["les demoiselles d'avignon"],
+      "image": "http://www.leiweb.it/celebrity/personaggi-news/2011/gallery/img/11/picasso.jpg"
+    },
+    {
+      "artist": ["picasso"],
+      "date": ["1911-12", "1911", "1912"],
+      "title": ["still life with chair caning"],
+      "image": "https://d1ycxz9plii3tb.cloudfront.net/additional_images/4f750b33653da10001000517/large.jpg"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+name: Art_Review
+version: 0.0.1
+description: A sample web application
+dependencies:
+  animation: any
+  browser: any

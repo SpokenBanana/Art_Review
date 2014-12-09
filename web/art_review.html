@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Art_Review</title>
+    <link rel="stylesheet" href="art_review.css">
+  </head>
+  <body>
+
+    <div class="header">
+      <h1 id="header"><a href="artwork.html">Art Review</a></h1>
+    </div>
+    <div class="container">
+      <h3 id="amount"></h3>
+        <div id="work-on-container" >
+          <h4>Art pieces you should work on</h4>
+          <ul id="work-on">
+          </ul>
+        </div>
+        <img src="" alt="" id="image"/>
+      <div id="status"></div>
+      <ul id="answer-form">
+        <li id="tries"></li>
+        <li>
+          <input type="text" id="title" placeholder="Title" />
+        </li>
+        <li>
+          <input type="text" id="artist" placeholder="Artist" />
+        </li>
+        <li>
+          <input type="text" id="date" placeholder="Date" />
+        </li>
+        <li>
+          <button id="next">Next</button>
+        </li>
+      </ul>
+    </div>
+    <div class="footer"></div>
+    <script type="application/dart" src="art_review.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>
